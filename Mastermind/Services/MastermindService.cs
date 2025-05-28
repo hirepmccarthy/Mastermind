@@ -101,7 +101,7 @@
             if (guess.Length != Answer.Length)
                 return 0;
 
-            return guess.Distinct().Where(x => Answer.Distinct().Contains(x)).Count();
+            return guess.Where(x => Answer.Distinct().Contains(x)).Count();
         }
 
         private int CorrectPosition(string[] guess)
