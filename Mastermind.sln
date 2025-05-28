@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36121.58 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mastermind", "Mastermind.csproj", "{13962173-1265-4F60-B8B8-B9943A02B344}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{13962173-1265-4F60-B8B8-B9943A02B344}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13962173-1265-4F60-B8B8-B9943A02B344}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13962173-1265-4F60-B8B8-B9943A02B344}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13962173-1265-4F60-B8B8-B9943A02B344}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B4D6FC74-A462-43DF-8F7D-8B760CFA6F76}
+	EndGlobalSection
+EndGlobal
